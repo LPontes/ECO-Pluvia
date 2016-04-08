@@ -8,4 +8,10 @@ automate the download process.
 
 USING ECOPluvia Downloader
 
+- Download the librarys file and copy then into the site-packages file 
+- Download the gages shapefile 
+- Select the gages you want to download 
+- Open the python console to follow the process
+- Initiate the plugin
+
 

@@ -8,7 +8,7 @@ automate the download process facilitating the hydrologic studies.
 
 USING ECOPluvia Downloader
 
-- You need the following libraries in order to get the plugin working:  Beatiful soup, Requests and Pep8;
+- You need the following libraries in order to get the plugin working:  Beatiful Soup, Requests and Pep8;
 - Download the gages shapefile; 
 - Load the gages shapefile;
 - Select the gages you want to download;

@@ -8,10 +8,15 @@ automate the download process facilitating the hydrologic studies.
 
 USING ECOPluvia Downloader
 
-- Download the librarys file and copy then into the site-packages file 
-- Download the gages shapefile 
-- Select the gages you want to download 
-- Open the python console to follow the process
-- Initiate the plugin
+- You need the following libraries in order to get the plugin working:
+-             Beatiful soup
+-             Requests
+-             Pep8
+- Download the gages shapefile; 
+- Load the gages shapefile;
+- Select the gages you want to download;
+- Open the python console to follow the process;
+- Initiate the plugin;
+
 
 

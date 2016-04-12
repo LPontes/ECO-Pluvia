@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=ECO Pluvia Downloader
+qgisMinimumVersion=2.0
+description=Esta ferramenta facilita a aquisição de dados de precipitação disponíveis no Portal HidroWeb.
+version=0.1
+author=Jessica Fontoura 
+email=jessica.ribeirofontoura@gmail.com
+
+about=Esta ferramenta foi desenvolvida pelo Grupo de Pesquisa em Modelagem Hidroambiental e Ecotecnologias da Universidade Federal de Santa Maria, visando facilitar a aquisição de dados de precipitação utilizados para estudos hidrólogicos e disponibilizados pela Agência Nacional de Águas no Portal HidroWeb.
+
+tracker=https://github.com/ecotecnologias/pyplugin.git
+repository=https://github.com/ecotecnologias/pyplugin.git
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=webservice
+
+homepage=https://github.com/ecotecnologias/pyplugin.git
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

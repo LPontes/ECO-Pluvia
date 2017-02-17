@@ -1,4 +1,4 @@
-ECOPluvia Downloader 
+ECO-Pluvia Downloader 
 
 This QGIS plugin facilitates the acquisition of precipitation data available at the website HidroWeb.
 The website is administered by the Agência Nacional de Águas, a Brazilian governmental agency.
@@ -7,13 +7,10 @@ Universidade Federal de Santa Maria in order to give a spatial visualization of 
 automate the download process facilitating the hydrologic studies.
 
 USING ECOPluvia Downloader
-
-- You need the following libraries in order to get the plugin working:  Beatiful Soup, Requests and Pep8;
-- Download the gages shapefile; 
-- Load the gages shapefile;
-- Select the gages you want to download;
+- The plugin load automatically the ANA gages shapefile;
+- Select the gages you want to download precipitation data;
 - Open the python console to follow the process;
-- Initiate the plugin;
+- Click Ok;
 
 
 
